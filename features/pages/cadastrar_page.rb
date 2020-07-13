@@ -3,7 +3,7 @@ class Cadastrar
         
     def infomarEmail
         #fill_in('email_create', with: Faker::Internet.email) #caso queiram rodar com a API FAker. Apagar a linha de baixo.
-        fill_in('email_create', with:'testeqaame2@gmail.com')
+        fill_in('email_create', with:'testeqaame5@gmail.com')
     end
 
     def botaoCriarConta

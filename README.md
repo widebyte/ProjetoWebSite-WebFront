@@ -26,6 +26,10 @@ O Capybara ajuda você a testar aplicativos da Web, simulando como um usuário r
 
 OBS: JÁ ESTÁ COM CONFIGURADO COM UM USUÁRIO NÃO CADASTRADO. SÓ RODAR OS COMANDOS ABAIXO PARA RODAR OS TESTES POR COMPLETO!
 
+OBS: O REPORTS está com o resultado positivo, pois fiz anteriormente o teste novamente antes de entregar para a equipe!
+
+OBS: O teste está preso só ao e-mail, é só trocar o email em cadastrar_page.rb e em cadastrar.feature, se quiserem rodar com algum e-mail de vocês.
+
 **Para rodar o projeto por completo**
 ````
 cucumber

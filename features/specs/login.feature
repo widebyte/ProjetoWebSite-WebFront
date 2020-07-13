@@ -6,7 +6,7 @@
             Posso acessar o sistema com o meu email e senha
 
             Cenario: Usuario deve ser autorizado
-            Quando faço o login com "testeqaame2@gmail.com" e "123456"
+            Quando faço o login com "testeqaame5@gmail.com" e "123456"
             Então devo ser autenticado
 
             Esquema do Cenario: Tentativa de login
@@ -15,9 +15,9 @@
 
             Exemplos:
             | email                   | senha           | alerta                       |
-            | "testeqaame2@gmail.com" | "12344444222@#" | "Authentication failed."     |
+            | "testeqaame5@gmail.com" | "12344444222@#" | "Authentication failed."     |
             | ""                      | "12345#"        | "An email address required." |
-            | "testeqaame2@gmail.com" | ""              | "Password is required."      |
+            | "testeqaame5@gmail.com" | ""              | "Password is required."      |
 
 
 
